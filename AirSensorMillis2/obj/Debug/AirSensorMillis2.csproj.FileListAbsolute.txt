@@ -1,0 +1,10 @@
+C:\Users\delan\source\repos\AirSensorMillis2\AirSensorMillis2\bin\Debug\AirSensorMillis2.exe.config
+C:\Users\delan\source\repos\AirSensorMillis2\AirSensorMillis2\bin\Debug\AirSensorMillis2.exe
+C:\Users\delan\source\repos\AirSensorMillis2\AirSensorMillis2\bin\Debug\AirSensorMillis2.pdb
+C:\Users\delan\source\repos\AirSensorMillis2\AirSensorMillis2\obj\Debug\AirSensorMillis2.csproj.AssemblyReference.cache
+C:\Users\delan\source\repos\AirSensorMillis2\AirSensorMillis2\obj\Debug\AirSensorMillis2.Form1.resources
+C:\Users\delan\source\repos\AirSensorMillis2\AirSensorMillis2\obj\Debug\AirSensorMillis2.Properties.Resources.resources
+C:\Users\delan\source\repos\AirSensorMillis2\AirSensorMillis2\obj\Debug\AirSensorMillis2.csproj.GenerateResource.cache
+C:\Users\delan\source\repos\AirSensorMillis2\AirSensorMillis2\obj\Debug\AirSensorMillis2.csproj.CoreCompileInputs.cache
+C:\Users\delan\source\repos\AirSensorMillis2\AirSensorMillis2\obj\Debug\AirSensorMillis2.exe
+C:\Users\delan\source\repos\AirSensorMillis2\AirSensorMillis2\obj\Debug\AirSensorMillis2.pdb
